@@ -60,4 +60,7 @@ T(\text{DecreaseKey}) = O(1)
 - **DecreaseKey** — \( O(1) \)
 - **Consolidate** — \( O(\log n) \)
 
+  <img width="624" alt="image" src="https://github.com/user-attachments/assets/52e3ecae-ebee-450c-9c44-62d13fcc95e6" />
+
+
 Таким образом, операции с фибоначчиевой кучей в среднем выполняются с амортизированной сложностью, что делает её высокоэффективной структурой данных для очередей с приоритетами.
