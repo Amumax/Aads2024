@@ -16,6 +16,4 @@ n – длина исходного массива.
 Сортируются массивы размерами $\frac{N}{2^k}$, где $k \in \overline{1, \log_2 N}$.
 
 
-$
-\sum_{k=1}^{\log_2 N} \frac{N}{2^k} \log \frac{N}{2^k} \leq \sum_{k=1}^{\log_2 N} \frac{N}{2^k} \log N = N \log N \cdot \sum_{k=1}^{\log_2 N} \frac{1}{2^k} \leq N \log N
-$
+$\sum_{k=1}^{\log_2 N} \frac{N}{2^k} \log \frac{N}{2^k} \leq \sum_{k=1}^{\log_2 N} \frac{N}{2^k} \log N = N \log N \cdot \sum_{k=1}^{\log_2 N} \frac{1}{2^k} \leq N \log N$
