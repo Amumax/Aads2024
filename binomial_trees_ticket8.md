@@ -61,3 +61,6 @@
 - **Слияние двух куч**: операция слияния двух куч выполняется за **O(log n)**, как описано выше.
 
 инфу хаваемс как обычно из https://neerc.ifmo.ru/wiki/index.php?title=%D0%91%D0%B8%D0%BD%D0%BE%D0%BC%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BA%D1%83%D1%87%D0%B0
+
+
+<img width="392" alt="image" src="https://github.com/user-attachments/assets/6e21c52b-6a79-41a9-a1f0-23d0a949967d" />
